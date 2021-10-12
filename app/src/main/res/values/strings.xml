@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Unit Converter</string>
-    <string name="deneme">DENEME</string>
     <string name="meters">Meters</string>
     <string name="temperature">Temperature</string>
+    <string name="to">to</string>
+    <string name="error_value">Check value!</string>
+    <string-array name="length_array">
+        <item>kilometers</item>
+        <item>meters</item>
+        <item>centimeters</item>
+        <item>millimeters</item>
+        <item>miles</item>
+    </string-array>
 </resources>
